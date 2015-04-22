@@ -1,2 +1,6 @@
 Free green tea is good.
+<<<<<<< HEAD
 A delight for the senses.
+=======
+A delight for the senses. 
+>>>>>>> d3a5c514454cfa68c4a6dcccf461e078e290a2b0
